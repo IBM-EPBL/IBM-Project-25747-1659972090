@@ -1,0 +1,26 @@
+body{
+    background-image:url("https://images.pexels.com/photos/5239797/pexels-photo-5239797.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    background-repeat: no-repeat;
+    background-size: cover;
+   }
+
+   #rectangle{
+    width:400px;
+    height:150px;
+    background-color: #1e1f1f;
+    opacity: 0.8;
+    border-radius: 25px;
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+   }
+
+   #ans{
+ text-align: center;
+ font-size: 40px;
+ margin: 0 auto;
+ padding: 3% 5%;
+ padding-top: 9%;
+ color: rgb(249, 240, 240);
+   }
